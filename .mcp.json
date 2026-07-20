@@ -1,0 +1,15 @@
+{
+  "mcpServers": {
+    "lang-to-nx": {
+      "command": "python",
+      "args": [
+        "E:\\NX\\Lang-to-NX-MCP\\run.py"
+      ],
+      "env": {
+        "NX_ROOT": "E:\\NX\\NX",
+        "RUN_JOURNAL_EXE": "E:\\NX\\NX\\NXBIN\\run_journal.exe",
+        "OUTPUT_DIR": "E:\\NX\\Lang-to-NX-MCP\\output"
+      }
+    }
+  }
+}

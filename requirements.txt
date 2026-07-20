@@ -1,0 +1,17 @@
+# Lang-to-NX MCP — 依赖
+# 安装: pip install -r requirements.txt
+
+# ── MCP 协议层 ──
+mcp>=1.0.0
+
+# ── Web 框架（可选，用于前端 API） ──
+fastapi>=0.100.0
+uvicorn>=0.22.0
+
+# ── 通用 ──
+python-dotenv>=1.0.0
+pydantic>=2.0
+
+# ── 测试 ──
+pytest>=7.0
+pytest-asyncio>=0.21
